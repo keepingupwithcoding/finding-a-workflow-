@@ -4,11 +4,12 @@
   "description": "A project to show case",
   "repository": {
     "type": "git",
-    "url": "?.git"
+    "url": "https://github.com/haluskua/Workflow-structure.git"
   },
   "author": "omphalus kua",
   "devDependencies": {
     "gulp": "^3.9.1",
+    "gulp-coffee": "^3.0.3",
     "gulp-util": "^3.0.8"
   }
 }
