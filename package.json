@@ -1,0 +1,10 @@
+{
+  "name": "lynda.com",
+  "version": "0.0.1",
+  "description": "A project to show case",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "omphalus kua",
+}
